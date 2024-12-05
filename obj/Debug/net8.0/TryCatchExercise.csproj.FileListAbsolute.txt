@@ -12,3 +12,4 @@ C:\Users\USER\Desktop\TryCatchExercise\obj\Debug\net8.0\refint\TryCatchExercise.
 C:\Users\USER\Desktop\TryCatchExercise\obj\Debug\net8.0\TryCatchExercise.pdb
 C:\Users\USER\Desktop\TryCatchExercise\obj\Debug\net8.0\TryCatchExercise.genruntimeconfig.cache
 C:\Users\USER\Desktop\TryCatchExercise\obj\Debug\net8.0\ref\TryCatchExercise.dll
+C:\Users\USER\Desktop\TryCatchExercise\obj\Debug\net8.0\TryCatchExercise.sourcelink.json
