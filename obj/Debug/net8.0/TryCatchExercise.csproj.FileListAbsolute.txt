@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\TryCatchExercise\bin\Debug\net8.0\TryCatchExercise.exe
+C:\Users\USER\Desktop\TryCatchExercise\bin\Debug\net8.0\TryCatchExercise.deps.json
+C:\Users\USER\Desktop\TryCatchExercise\bin\Debug\net8.0\TryCatchExercise.runtimeconfig.json
+C:\Users\USER\Desktop\TryCatchExercise\bin\Debug\net8.0\TryCatchExercise.dll
+C:\Users\USER\Desktop\TryCatchExercise\bin\Debug\net8.0\TryCatchExercise.pdb
+C:\Users\USER\Desktop\TryCatchExercise\obj\Debug\net8.0\TryCatchExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\TryCatchExercise\obj\Debug\net8.0\TryCatchExercise.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\TryCatchExercise\obj\Debug\net8.0\TryCatchExercise.AssemblyInfo.cs
+C:\Users\USER\Desktop\TryCatchExercise\obj\Debug\net8.0\TryCatchExercise.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\TryCatchExercise\obj\Debug\net8.0\TryCatchExercise.dll
+C:\Users\USER\Desktop\TryCatchExercise\obj\Debug\net8.0\refint\TryCatchExercise.dll
+C:\Users\USER\Desktop\TryCatchExercise\obj\Debug\net8.0\TryCatchExercise.pdb
+C:\Users\USER\Desktop\TryCatchExercise\obj\Debug\net8.0\TryCatchExercise.genruntimeconfig.cache
+C:\Users\USER\Desktop\TryCatchExercise\obj\Debug\net8.0\ref\TryCatchExercise.dll
