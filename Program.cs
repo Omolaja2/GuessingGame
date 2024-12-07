@@ -1,31 +1,33 @@
 ﻿
 
-// Random random = new();
-// int secretNumber = random.Next(10, 15);
+Random random = new();
+int secretNumber = random.Next(10, 15);
 
-// Console.WriteLine("=====Guess Any Number======");
-// int guesnumber = int.Parse(Console.ReadLine()!);
+Console.WriteLine("=====Guess Any Number======");
+int guesnumber = int.Parse(Console.ReadLine()!);
 
 
 
-//  string result = (guesnumber != secretNumber) ? "You Guess Wrong Boboyi !! " : "You Guess Right Nigga Gbayii";
-//  Console.ForegroundColor = ConsoleColor.Green;
-// if (guesnumber != secretNumber)
-// {
-//     Console.WriteLine("You Guess Wrong !!");
-//     Console.ForegroundColor = ConsoleColor.Red;
+ string result = (guesnumber != secretNumber) ? "You Guess Wrong Boboyi !! " : "You Guess Right Nigga Gbayii";
+ Console.ForegroundColor = ConsoleColor.Green;
+if (guesnumber != secretNumber)
+{
     
-// }
-
-// else 
-// {
-//     Console.WriteLine("You Guess Right");
-//     Console.ForegroundColor = ConsoleColor.Green;
+    Console.WriteLine("You Guess Wrong !!");
     
-// }
+    
+}
 
-// Console.WriteLine(guesnumber);
-// Console.Write($"The Secret numer is : {secretNumber}  e shock you? ");
+else 
+{
+    
+    Console.WriteLine("You Guess Right");
+    
+    
+}
+
+Console.WriteLine(guesnumber);
+Console.Write($"The Secret numer is : {secretNumber}  e shock you? ");
 
 
 
